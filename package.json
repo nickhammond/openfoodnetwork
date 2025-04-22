@@ -13,7 +13,7 @@
     "@storybook/addon-docs": "^6.3.4",
     "@storybook/server": "^6.3.4",
     "jasmine-core": "~2.4.1",
-    "karma": "~6.3.4",
+    "karma": "~6.3.16",
     "karma-chrome-launcher": "~3.1.0",
     "karma-coffee-preprocessor": "~1.0.1",
     "karma-jasmine": "~0.3.8",
@@ -23,7 +23,7 @@
   "dependencies": {
     "@rails/webpacker": "5.4.0",
     "flatpickr": "^4.6.9",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "shortcut-buttons-flatpickr": "^0.3.1",
     "stimulus": "^2.0.0",
     "webpack": "^4.46.0",
